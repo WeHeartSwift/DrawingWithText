@@ -1,2 +1,1 @@
-DrawingWithText
-===============
+Solutions from [Drawing with Text](www.weheartswift.com/drawing-with-text/)
