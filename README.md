@@ -1,1 +1,1 @@
-Solutions from [Drawing with Text](www.weheartswift.com/drawing-with-text/)
+Solutions from [Drawing with Text](http://www.weheartswift.com/drawing-with-text/)
